@@ -5,5 +5,9 @@ public class Main {
         System.out.println("Ändringar");
         System.out.println("Ändringar");
         System.out.println("Ändringar");
+        System.out.println("Andra Ändringar");
+        System.out.println("Andra Ändringar");
+        System.out.println("Andra Ändringar");
+        System.out.println("Andra Ändringar");
     }
 }
